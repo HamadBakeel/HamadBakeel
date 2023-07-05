@@ -16,8 +16,6 @@
 
 - 👨‍💻 A sample of the projects I worked in is available at <a target='_blank' href='https://hamadbakeel.vercel.app'>My Portfolio</a>
 
-- 📫 Need a developer? **hamadbakeel@gmail.com**
-
 - 📄 Know about my experiences [https://app.enhancv.com/share/798a239f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/798a239f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
 <br/>
