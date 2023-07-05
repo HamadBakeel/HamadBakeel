@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hamad Bakeel <img width='100px' align="center" src='https://github.com/HamadBakeel/HamadBakeel/blob/main/im-a-developer.gif' /></h1>
-<h3 align="center">Frontend wizard specialized in bringing life into websites 
+### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+### I'm Hamad Bakeel <img width='100px' align="center" src='https://github.com/HamadBakeel/HamadBakeel/blob/main/im-a-developer.gif' />
+
+ <strong> <em>
+<h2 >Frontend wizard specialized in bringing life into websites 
   <img width='50px' align='center' src='https://github.com/HamadBakeel/HamadBakeel/assets/90466313/9d722085-d02b-4de7-bbd6-b334f31145a2' />
-</h3>
+</h2>
+</em></p>
 
 
-
-
+<br/>
 
 
 - 💻 I am working as **Front-end Web Developer**
