@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, NextJS**
 
-- 👨‍💻 All of my projects are available at [hamadbakeel.vercel.app](hamadbakeel.vercel.app)
+- 👨‍💻 A sample of the projects I worked in is available at <a target='_blank' href='https://hamadbakeel.vercel.app'>My Portfolio</a>
 
 - 💬 Ask me about **Front end web development**
 
