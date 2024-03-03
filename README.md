@@ -22,7 +22,7 @@
 
 - 👨‍💻 A sample of the projects I worked in is available at <a target='_blank' href='https://hamadbakeel.vercel.app'>My Portfolio</a>
 
-- 📄 Know about my experiences <a traget="_blank" href="https://app.enhancv.com/share/798a239f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/798a239f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic>My Resume</a>
+- 📄 Know about my experiences <a traget='_blank' href="https://app.enhancv.com/share/798a239f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/798a239f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">My Resume</a>
 
 <br/>
 
