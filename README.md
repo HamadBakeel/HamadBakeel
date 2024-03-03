@@ -2,11 +2,13 @@
 
 ### I'm Hamad Bakeel <img width='100px' align="center" src='https://github.com/HamadBakeel/HamadBakeel/blob/main/im-a-developer.gif' />
 
- <strong> <em>
-<h2 >Frontend wizard specialized in bringing life into websites 
-  <img width='50px' align='center' src='https://github.com/HamadBakeel/HamadBakeel/assets/90466313/9d722085-d02b-4de7-bbd6-b334f31145a2' />
-</h2>
-</em></p>
+ <strong> 
+ <em>
+  <h2 >Frontend wizard specialized in bringing life into websites 
+    <img width='50px' align='center' src='https://github.com/HamadBakeel/HamadBakeel/assets/90466313/9d722085-d02b-4de7-bbd6-b334f31145a2' />
+  </h2>
+</em>
+ 
 
 
 <br/>
@@ -20,7 +22,7 @@
 
 - 👨‍💻 A sample of the projects I worked in is available at <a target='_blank' href='https://hamadbakeel.vercel.app'>My Portfolio</a>
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/798a239f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/798a239f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 Know about my experiences <a traget="_blank" href="https://app.enhancv.com/share/798a239f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/798a239f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic>My Resume</a>
 
 <br/>
 
@@ -36,11 +38,11 @@
 
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamadbakeel&show_icons=true&locale=en&layout=compact" alt="hamadbakeel" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamadbakeel&show_icons=true&locale=en&layout=compact" alt="hamadbakeel" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamadbakeel&show_icons=true&locale=en&hide=stars" alt="hamadbakeel" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamadbakeel&show_icons=true&locale=en&hide=stars" alt="hamadbakeel" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamadbakeel&" alt="hamadbakeel" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamadbakeel&" alt="hamadbakeel" />
 
 <br />
 <hr />
