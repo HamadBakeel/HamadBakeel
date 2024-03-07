@@ -8,11 +8,7 @@
     <img width='50px' align='center' src='https://github.com/HamadBakeel/HamadBakeel/assets/90466313/9d722085-d02b-4de7-bbd6-b334f31145a2' />
   </h2>
 </em>
- 
-
-
 <br/>
-
 
 - 💻 I am working as **Front-end Web Developer**
 
